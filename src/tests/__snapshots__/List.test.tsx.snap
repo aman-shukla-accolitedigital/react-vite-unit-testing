@@ -1,0 +1,30 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`About Component > renders the About component 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      List Page
+    </h1>
+    <input
+      placeholder="Add new item"
+      type="text"
+      value=""
+    />
+    <button>
+      Add Item
+    </button>
+    <ul>
+      <li>
+        Item 1
+      </li>
+      <li>
+        Item 2
+      </li>
+      <li>
+        Item 3
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;
